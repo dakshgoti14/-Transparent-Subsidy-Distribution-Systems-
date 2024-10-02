@@ -42,3 +42,16 @@ This project is a **React.js** application that serves as a dashboard for benefi
    ```bash
    git clone https://github.com/your-username/subsidy-dashboard.git
    cd subsidy-dashboard
+   
+2. **Installation**:
+
+   ```bash
+   npm install
+   
+3. **Run the development server**:
+
+   ```bash
+   npm start
+
+---
+-This will launch the app at http://localhost:3000 in your browser.
