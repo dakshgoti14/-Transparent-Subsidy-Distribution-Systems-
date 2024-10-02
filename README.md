@@ -54,4 +54,4 @@ This project is a **React.js** application that serves as a dashboard for benefi
    npm start
 
 ---
--This will launch the app at http://localhost:3000 in your browser.
+This will launch the app at http://localhost:3000 in your browser.
